@@ -1,0 +1,16 @@
+.nothing__main-content {
+    align-items: center;
+    background-color: darken($color: $dark-grey, $amount: 10);
+    color: white;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    height: 100vh;
+    p {
+        text-align: center;
+    }
+    i {
+        font-size: 5em;
+        margin-top: .5em;
+    }
+}
